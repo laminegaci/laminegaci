@@ -20,14 +20,8 @@ I'm **GACI Mohamed Lamine** | 💻 Full-Stack Developer | 🧠 Experienced Web D
 
 ---
 
-### 📈 GitHub Stats
-![Lamine's GitHub stats](https://github-readme-stats.vercel.app/api?username=laminegaci&show_icons=true&theme=radical)
-
----
-
 ### 🌐 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/laminegaci)  
-- 🐦 [Twitter](https://twitter.com/laminegaci)  
 - ✉️ [Email Me](mailto:laminegaci@example.com)
 
 ---
