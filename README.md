@@ -21,7 +21,7 @@ I'm **GACI Mohamed Lamine** | 💻 Full-Stack Developer | 🧠 Experienced Web D
 ---
 
 ### 🌐 Connect With Me
-- 💼 [LinkedIn]([https://linkedin.com/in/laminegaci](https://dz.linkedin.com/in/mohamed-lamine-gaci-183650201))  
+- 💼 [LinkedIn](https://dz.linkedin.com/in/mohamed-lamine-gaci-183650201)  
 - ✉️ [Email Me](mailto:mohamed61lamine@gmail.com)
 
 ---
