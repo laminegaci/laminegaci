@@ -25,5 +25,3 @@ I'm **GACI Mohamed Lamine** | 💻 Full-Stack Developer | 🧠 Experienced Web D
 - ✉️ [Email Me](mailto:mohamed61lamine@gmail.com)
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
