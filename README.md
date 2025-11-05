@@ -1,4 +1,4 @@
-# Hi there 👋 😗
+# Hi there 👋
 I'm **GACI Mohamed Lamine** | 💻 Full-Stack Developer | 🧠 Experienced Web Developer | 🚀 PHP Laravel Specialist
 
 ---
